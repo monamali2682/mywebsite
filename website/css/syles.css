@@ -1,0 +1,74 @@
+body{margin: 0; color:#40514E;}
+h1{margin-top: 0;}
+body{text-align: center;}
+body{font-family: 'Merriweather', serif;}
+h1{font-family: 'Sacramento', cursive; color:#45b29a; font-size:5.62rem; margin: 60px auto 0 auto;}
+h2{font-family: 'Montserrat', sans-serif; color:#45b29a; font-size:2rem;padding-bottom: 10px;}
+h3{font-family: 'Montserrat', sans-serif; color: #11999E;}
+a{color:#11999E;font-family: 'Montserrat', sans-serif; color: #11999E;font-weight: bold;}
+p{line-height: 2;}
+hr{border-style: dotted none none; width:4%; color: #dbdbdb;border-width: 5px;margin: 100px auto 100px auto;}
+
+
+
+
+
+/* --------- class selector----------*/
+.top-container{}
+.middle-container{margin:100px 0; }
+.bottom-container{}
+
+
+.top-cloud{position: absolute;right:300px; top: 40px;}
+.bottom-cloud{position: absolute;left: 250px;bottom: 300px;}
+.top-container{background-color:#e0ebe8; padding-top:60px ; position: relative;line-height: 2;}
+.skill-row{width: 50%; margin: 40px auto 100px auto;text-align:left;line-height: 2}
+.skillphoto1{width: 25%;float: left;margin-right: 20px}
+.skillphoto2{width: 25%;float: right;margin-left: 10px}
+.bottom-container{background-color: #45b29a;padding-top: 40px;padding-bottom: 25px;}
+#twitter{margin-left: 30px;margin-right: 30px}
+#tag{color:#EAF6F6;margin-top: 25px;font-size:12px }
+.intro{width:30%;margin:auto;}
+.contact-text{width: 40%;margin: 40px auto 60px auto;}
+a:hover{color: #EAF6F6;}
+.mountain{position:relative;top: 10px}
+
+
+
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration-line:none;
+  color: #EEF5EE !important;
+  font-size: 12px;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 8px 25px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  border: 2px #19BDA6;
+  background: #63B8EE;
+  background: linear-gradient(top,  #65EFDF,  #4ABDA4);
+  background: -ms-linear-gradient(top,  #65EFDF,  #4ABDA4);
+  background: -webkit-gradient(linear, left top, left bottom, from(#65EFDF), to(#4ABDA4));
+  background: -moz-linear-gradient(top,  #65EFDF,  #4ABDA4);
+}
+.btn:hover {
+  color: #E8DCE6 !important;
+  background: #25CFA2;
+  background: linear-gradient(top,  #60DBC7,  #43B0A5);
+  background: -ms-linear-gradient(top,  #60DBC7,  #43B0A5);
+  background: -webkit-gradient(linear, left top, left bottom, from(#60DBC7), to(#43B0A5));
+  background: -moz-linear-gradient(top,  #60DBC7,  #43B0A5);
+}
+
+
+
+
+
+
+
+
+
+
+
+/**seagreen*347474***sean bakground#e0ebe8 ****sean h1 45b29a***angela bakground E4F9F5***angela h1 and h2 #66BFBF my h1 1eb2a6 */
